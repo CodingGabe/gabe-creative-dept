@@ -19,21 +19,21 @@
                             <i class="fa-solid fa-wand-sparkles fa-lg"></i>
                         </div>
                         <h3 class="lg:text-2xl text-xl font-bold mb-4 text-center">Branding</h3>
-                        <p class="text-center">Your brand is the foundation of your online presence. I create memorable and impactful branding strategies that represent your unique identity and resonate with your target audience.</p>
+                        <p class="text-center">Your brand is more than just a logo. It's the visual representation of your company's values, mission, and personality. I'll work with you to develop a strong brand identity that will resonate with your target audience.</p>
                     </div>
-                    <div class="flex flex-col justify-center items-center">
+                    <div class="flex flex-col justify-start items-center">
                         <div class="relative w-12 h-12 bg-lavender rounded-full flex justify-center items-center text-center mb-6">
                             <i class="fa-solid fa-laptop-code fa-lg"></i>
                         </div>
                         <h3 class="lg:text-2xl text-xl font-bold mb-4 text-center">Website Design &amp; Development</h3>
-                        <p class="text-center">I specialize in creating visually stunning, user-friendly websites that are tailored to your specific needs. From responsive design to seamless navigation, our websites are optimized for performance and built to convert.</p>
+                        <p class="text-center"> I'll work with you to create a website that not only looks great but is easy to use and navigate. Your website will be responsive, meaning it will look and function seamlessly on all devices, from desktop computers to smartphones.</p>
                     </div>
-                    <div class="flex flex-col justify-center items-center">
+                    <div class="flex flex-col justify-start items-center">
                         <div class="relative w-12 h-12 bg-lavender rounded-full flex justify-center items-center text-center mb-6">
                             <i class="fa-solid fa-magnifying-glass-chart fa-lg"></i>
                         </div>
                         <h3 class="lg:text-2xl text-xl font-bold mb-4 text-center">SEO</h3>
-                        <p class="text-center">Drive organic traffic to your website with our proven SEO strategies. Our team of SEO experts will optimize your website's content, structure, and performance to improve your search engine rankings and increase your online visibility.</p>
+                        <p class="text-center">Search engine optimization (SEO) is essential to help your website rank higher in search engine results. I'll ensure your website is optimized with relevant keywords, meta tags, and other SEO best practices, so you can attract more traffic and leads.</p>
                     </div>
                 </div>
             </div>
@@ -45,8 +45,8 @@
                 </div>
                 <div class="about-content flex justify-center justify-items-center flex-col">
                     <h4 class="text-sm uppercase font-bold dept-small mb-2">Creative Agency</h4>
-                    <h1 class="lg:text-6xl text-xl font-bold mb-6">Build Your Business With Me</h1>
-                    <p class="mb-8">At my creative agency, I’m super passionate about helping small businesses succeed. Contact me today to learn more about my services and how I can help your business grow! At my creative agency, I’m super passionate about helping small businesses succeed. Contact me today to learn more about my services and how I can help your business grow!At my creative agency, I’m super passionate about helping small businesses succeed. Contact me today to learn more about my services and how I can help your business grow!</p>
+                    <h1 class="lg:text-4xl text-xl font-bold mb-6">Build Your Business With Me</h1>
+                    <p class="mb-8">At my creative agency, I’m super passionate about helping small businesses succeed. Contact me today to learn more about my services and how I can help your business grow!</p>
                     <a href="#portfolio" class="dept-btn w-fit">View Work</a>
                 </div>
             </div>
