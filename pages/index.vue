@@ -1,18 +1,24 @@
 <template>
     <div>
-        <section id="dept-hero" class="min-h-[34rem] bg-sand">
-            <div class="relative container mx-auto">
+        <section id="dept-hero" class="lg:min-h-[34rem] bg-sand min-h-min pb-24">
+            <div class="relative container mx-auto p-5">
                 <div class="hero-content flex flex-col max-w-3xl">
                     <h1 class="lg:text-7xl mb-5 font-bold">Unlock Your Brand's <span class="grad-text">Full Potential</span></h1>
                     <h3 class="lg:text-4xl mb-12">From Branding to Web Design and SEO Content, I've Got You Covered</h3>
                     <NuxtLink><span class="dept-btn w-fit">Get Started</span></NuxtLink>
                 </div>
-                <img src="../assets/img/gabe-lp-mocks.png" alt="mockups" class="absolute -top-12 -right-60 max-w-4xl">
+                <img src="../assets/img/gabe-lp-mocks.png" alt="mockups" class="absolute -top-12 -right-60 max-w-4xl hidden lg:block">
             </div>
         </section>
-        <section id="services" class="container mx-auto pb-24">
+        <section id="about" class="container mx-auto pb-20">
+            <div class="max-w-xl mx-auto">
+                <h1 class="text-4xl text-center font-bold mb-4">Why Choose Me?</h1>
+                <p class="text-center">As a solo freelancer, I offer personalized service and attention to detail that you won't find at a larger agency. I'm dedicated to delivering high-quality work that exceeds your expectations and helps you achieve your goals.</p>
+            </div>
+        </section>
+        <section id="services" class="container mx-auto pb-20">
             <div class="max-w-5xl mx-auto">
-                <h1 class="text-4xl text-center font-bold mb-20">My Comprehensive Services Include:</h1>
+                <h1 class="text-4xl text-center font-bold mb-16">My Comprehensive Services Include:</h1>
                 <div class="grid grid-cols-3 gap-12">
                     <div class="flex flex-col justify-start items-center">
                         <div class="relative w-12 h-12 bg-lavender rounded-full flex justify-center items-center text-center mb-6">
@@ -38,7 +44,8 @@
                 </div>
             </div>
         </section>
-        <section id="about" class="bg-lavender pt-14 pb-24">
+        
+        <section id="portfolio" class="bg-lavender pt-14 pb-24">
             <div class="container grid grid-cols-2 gap-8 mx-auto">
                 <div class="img-wrapper relative p-6 flex justify-center">
                     <img src="../assets/img/love-bonnet.JPG" alt="Blue Bonnets" class="object-fit max-w-sm brown-shadow">
