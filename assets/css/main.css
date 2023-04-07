@@ -1,0 +1,37 @@
+:root {
+    /* color-scheme: light dark; */
+    background-color: var(--egg);
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    --lavender: #D1CCDC;
+    --forest: #424C55;
+    --egg: #F5EDF0;
+    --sand: #886F68;
+    --earth: #3D2C2E;
+    --clay: #e6ccb2;
+    --dark: #1A1A1A;
+}
+
+h1, h2, h3, h4, h5, h6, a {
+  font-family: 'Nunito', sans-serif;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+}
+
+.dept-small {
+  color: var(--forest);
+  letter-spacing: 1px;
+}
+
+
+/* @media (prefers-color-scheme: light) {
+    :root {
+      color: #0b141b;
+      background-color: #F5EDF0;
+    }
+  } */

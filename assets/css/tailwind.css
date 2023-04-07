@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .dept-btn {
+        @apply bg-[#424C55] text-white px-6 py-4 rounded-sm text-lg font-bold hover:bg-[#647482] cursor-pointer transition-all uppercase;
+        box-shadow: .75rem .75rem 0 0 #000;
+    }
+    p {
+        @apply lg:text-lg;
+    }
+    .bg-lavender {
+        @apply bg-[#D1CCDC];
+    }
+    .bg-forest {
+        @apply bg-[#424C55];
+    }
+    .bg-claypot {
+        @apply bg-[#886F68];
+    }
+    .bg-earth {
+        @apply bg-[#3D2C2E];
+    }
+    .bg-sand {
+        @apply bg-[#F5EDF0];
+    }
+}
