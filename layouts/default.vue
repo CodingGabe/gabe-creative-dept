@@ -1,7 +1,7 @@
 <template>
     <div>
         <header>
-            <nav class="px-3 py-4 flex justify-between items-center fixed w-full backdrop-blur-sm sm:top:0 sm:bottom-auto sm:px-6 lg:py-4 shadow-sm bottom-0 ">
+            <nav class="px-3 py-4 flex justify-between items-center fixed w-full backdrop-blur-sm sm:top:0 sm:bottom-auto sm:px-6 lg:py-4 shadow-sm bottom-0 z-10">
                 <div class="top-0 absolute left-0 w-full bg-topbar"></div>
                     <div class="container flex justify-between mx-auto">
                         <NuxtLink to="/"><span class="rounded-md transition-all"><img src="../assets/img/final-final-logo.svg" alt="Gabe Creative Dept Logo" class="object-cover w-full max-w-[10rem]"></span></NuxtLink>
