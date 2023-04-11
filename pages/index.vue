@@ -18,7 +18,7 @@
                 <div class="grid lg:grid-cols-5 grid-cols-1 gap-8 justify-self-center items-center mb-24 text-center">
                         <img src="../assets/img/framer-logo.png" alt="Framer" class="max-w-[12rem] mx-auto">
                         <img src="../assets/img/webflow-logo.png" alt="Webflow" class="max-w-[12rem] mx-auto">
-                        <img src="../assets/img/shopify_secondary.png" alt="Shopify" class="max-w-[12rem] mx-auto">
+                        <!-- <img src="../assets/img/shopify_secondary.png" alt="Shopify" class="max-w-[12rem] mx-auto"> -->
                         <img src="../assets/img/sp-logo.png" alt="Squarespace" class="max-w-[12rem] mx-auto">
                         <img src="../assets/img/wp-logo.png" alt="Wordpress" class="max-w-[12rem] mx-auto">
                 </div>
