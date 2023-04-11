@@ -17,7 +17,7 @@
         </header>
 
         <!-- Page Content -->
-        <div class="pt-16 lg:pt-48 overflow-hidden">
+        <div class="pt-16 lg:pt-48 overflow-hidden px-5">
             <slot />
         </div>
 

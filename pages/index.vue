@@ -2,9 +2,9 @@
     <div>
         <section id="dept-hero" class="lg:min-h-[34rem] bg-egg min-h-min pb-24">
             <div class="relative container mx-auto p-5">
-                <div class="hero-content flex flex-col max-w-3xl">
-                    <h1 class="lg:text-7xl mb-5 font-bold">Unlock Your Brand's <span class="grad-text">Full Potential</span></h1>
-                    <h3 class="lg:text-4xl mb-12">From Branding to Web Design and SEO Content, I've Got You Covered</h3>
+                <div class="hero-content flex flex-col max-w-3xl text-center lg:text-left">
+                    <h1 class="lg:text-7xl mb-5 font-bold text-5xl">Unlock Your Brand's <span class="grad-text">Full Potential</span></h1>
+                    <h3 class="lg:text-4xl mb-12 text-xl">From Branding to Web Design and SEO Content, I've Got You Covered</h3>
                     <NuxtLink><span class="dept-btn w-fit">Get Started</span></NuxtLink>
                 </div>
                 <img src="../assets/img/gabe-lp-mocks.png" alt="mockups" class="absolute -top-10 -right-40 max-w-2xl hidden lg:block">
@@ -12,15 +12,15 @@
         </section>
         <section id="about" class="pb-24">
             <div class="max-w-2xl mx-auto container">
-                <h1 class="text-4xl text-center font-bold mb-4">Why Choose Me?</h1>
+                <h1 class="lg:text-4xl text-center font-bold mb-4 text-3xl">Why Choose Me?</h1>
                 <p class="text-center mb-4">As a solo freelancer, I offer personalized service and attention to detail that you won't find at a larger agency. I'm dedicated to delivering high-quality work that exceeds your expectations and helps you achieve your goals.</p>
                 <p class="text-center mb-10">I work with you on your favorite CMS platform to help ease you into updating content, media etc. effortlessly.</p>
-                <div class="grid lg:grid-cols-5 grid-cols-1 gap-8 justify-self-center items-center mb-24">
-                        <img src="../assets/img/framer-logo.png" alt="Framer">
-                        <img src="../assets/img/webflow-logo.png" alt="Webflow">
-                        <img src="../assets/img/shopify_secondary.png" alt="Shopify">
-                        <img src="../assets/img/sp-logo.png" alt="Squarespace">
-                        <img src="../assets/img/wp-logo.png" alt="Wordpress">
+                <div class="grid lg:grid-cols-5 grid-cols-1 gap-8 justify-self-center items-center mb-24 text-center">
+                        <img src="../assets/img/framer-logo.png" alt="Framer" class="max-w-[12rem] mx-auto">
+                        <img src="../assets/img/webflow-logo.png" alt="Webflow" class="max-w-[12rem] mx-auto">
+                        <img src="../assets/img/shopify_secondary.png" alt="Shopify" class="max-w-[12rem] mx-auto">
+                        <img src="../assets/img/sp-logo.png" alt="Squarespace" class="max-w-[12rem] mx-auto">
+                        <img src="../assets/img/wp-logo.png" alt="Wordpress" class="max-w-[12rem] mx-auto">
                 </div>
                 <h3 class="text-center lg:text-2xl text-xl">Ready to take your online presence to the next level?</h3>
                 <h3 class="text-center lg:text-2xl text-xl mb-12">Contact me today to discuss your project and how I can help.</h3>
