@@ -18,7 +18,7 @@
                 <div class="grid lg:grid-cols-5 grid-cols-1 gap-8 justify-self-center items-center mb-24 text-center">
                         <img src="../assets/img/framer-logo.png" alt="Framer" class="max-w-[12rem] mx-auto">
                         <img src="../assets/img/webflow-logo.png" alt="Webflow" class="max-w-[12rem] mx-auto">
-                        <!-- <img src="../assets/img/shopify_secondary.png" alt="Shopify" class="max-w-[12rem] mx-auto"> -->
+                        <img src="../assets/img/shopify_secondary.png" alt="Shopify" class="max-w-[12rem] mx-auto">
                         <img src="../assets/img/sp-logo.png" alt="Squarespace" class="max-w-[12rem] mx-auto">
                         <img src="../assets/img/wp-logo.png" alt="Wordpress" class="max-w-[12rem] mx-auto">
                 </div>
@@ -62,7 +62,7 @@
         <section id="portfolio" class="bg-lavender pt-14 pb-24">
             <div class="container grid grid-cols-2 gap-8 mx-auto">
                 <div class="img-wrapper relative p-6 flex justify-center">
-                    <img src="../assets/img/love-bonnet.JPG" alt="Blue Bonnets" class="object-fit max-w-sm brown-shadow border-4 border-black">
+                    <img src="#" alt="Blue Bonnets" class="object-fit max-w-sm brown-shadow border-4 border-black">
                 </div>
                 <div class="about-content flex justify-center justify-items-center flex-col">
                     <h4 class="text-sm uppercase font-bold dept-small mb-2">Creative Agency</h4>
